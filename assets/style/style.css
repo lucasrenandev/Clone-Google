@@ -71,7 +71,7 @@ section {
 }
 
 section main {
-    width: 680px;
+    width: 650px;
     margin: 0 0 300px 0;
     text-align: center;
 }
@@ -87,21 +87,21 @@ section main .main-search {
 
 section main .main-search .search-image {
     position: absolute;
-    top: 20px;
+    top: 17px;
     left: 30px;
 }
 
 section main .main-search .fone-image {
     position: absolute;
-    width: 15px;
-    top: 16px;
+    width: 14px;
+    top: 13px;
     right: 30px;
     cursor: pointer;
 }
 
 section main .main-search input {
     width: 100%;
-    height: 55px;
+    height: 50px;
     border: 1px solid #dfdfdf;
     border-radius: 30px;
     outline: none;
