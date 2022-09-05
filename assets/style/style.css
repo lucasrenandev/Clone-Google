@@ -104,11 +104,11 @@ section main .main-buttons {
 }
 
 section main .main-buttons button {
-    border: none;
+    border: 1px solid transparent;
     outline: none;
     background-color: #F8F9FA;
     border-radius: 4px;
-    padding: 12px 15px;
+    padding: 12px;
     margin: 0 10px;
     color: #212121;
     font-size: 1em;
