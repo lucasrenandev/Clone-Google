@@ -70,6 +70,8 @@ section {
     position: relative;
 }
 
+/* ==== SECTION MAIN ==== */
+
 section main {
     width: 650px;
     margin: 0 0 300px 0;
@@ -137,7 +139,7 @@ section main .main-buttons button:hover {
     border: 1px solid #dfdfdf;
 }
 
-/* ==== FOOTER ==== */
+/* ==== SECTION FOOTER ==== */
 
 footer {
     width: 100%;
