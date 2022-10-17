@@ -1,8 +1,7 @@
-
 const search = document.querySelector("#search")
 const button = document.querySelector("#button")
 
-/* Quando a tecla ENTER for pressionada */
+//Quando a tecla ENTER for pressionada
 search.addEventListener("keypress", function(e) {
     
     if(e.key === "Enter") {
@@ -12,7 +11,7 @@ search.addEventListener("keypress", function(e) {
     }
 })
 
-/* Quando o BOTÃO for clicado */
+// Quando o BOTÃO for clicado
 button.addEventListener("click", () => {
     const url = "https://www.google.com/search?q=" + search.value
     window.open(url, "_self")
